@@ -1,0 +1,3 @@
+﻿  ordinamento numeri.cpp
+C:\Users\aless\Desktop\Fauser\Informatica\File\ordinamento numeri\ordinamento numeri.cpp(10,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\aless\Desktop\Fauser\Informatica\File\ordinamento numeri\ordinamento numeri.cpp(18,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

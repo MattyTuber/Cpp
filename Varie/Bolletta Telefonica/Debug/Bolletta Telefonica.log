@@ -1,0 +1,3 @@
+﻿  Bolletta.cpp
+C:\Users\MattyTuber\Desktop\Teo\C++\Bolletta Telefonica\Bolletta.cpp(25,32): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+  Bolletta Telefonica.vcxproj -> C:\Users\MattyTuber\Desktop\Teo\C++\Bolletta Telefonica\Debug\Bolletta Telefonica.exe
